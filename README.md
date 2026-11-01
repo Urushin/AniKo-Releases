@@ -33,10 +33,10 @@ Read, watch and track your progress. On iPhone and iPad.
 ## A look inside
 
 <p align="center">
-  <img src="screenshots/01-discovery.png" width="23%" alt="Discovery" />
-  <img src="screenshots/02-library.png" width="23%" alt="Library" />
-  <img src="screenshots/03-title.png" width="23%" alt="Title page" />
-  <img src="screenshots/05-reader.png" width="23%" alt="Reader" />
+  <img src="screenshots/01-reader.png" width="23%" alt="Reader" />
+  <img src="screenshots/02-library.png" width="23%" alt="Library and tracking" />
+  <img src="screenshots/03-sync.png" width="23%" alt="AniList and MyAnimeList sync" />
+  <img src="screenshots/04-modules.png" width="23%" alt="Connections and modules" />
 </p>
 
 <sub>Screens show freely licensed works only: Sintel and Sprite Fright (Blender Foundation / Studio, CC BY), Pepper&Carrot (David Revoy, CC BY), Morevna Project (CC BY).</sub>
