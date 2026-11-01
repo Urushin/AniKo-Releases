@@ -35,7 +35,7 @@ Read, watch and track your progress. On iPhone and iPad.
 <p align="center">
   <img src="screenshots/01-reader.png" width="23%" alt="Reader" />
   <img src="screenshots/02-library.png" width="23%" alt="Library and tracking" />
-  <img src="screenshots/03-sync.png" width="23%" alt="AniList and MyAnimeList sync" />
+  <img src="screenshots/03-sync.png" width="23%" alt="Tracking services" />
   <img src="screenshots/04-modules.png" width="23%" alt="Connections and modules" />
 </p>
 
