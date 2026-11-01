@@ -7,7 +7,7 @@
 **Your manga and anime library, finally in one place.**
 Read, watch and track your progress. On iPhone and iPad.
 
-[![Version](https://img.shields.io/badge/version-1.0.0-E8590C?style=for-the-badge)](https://github.com/Urushin/AniKo-Releases/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.2.0-E8590C?style=for-the-badge)](https://github.com/Urushin/AniKo-Releases/releases/latest)
 [![iOS](https://img.shields.io/badge/iOS-18%2B-1c1c1e?style=for-the-badge&logo=apple&logoColor=white)](#install)
 [![Price](https://img.shields.io/badge/price-free-2ea44f?style=for-the-badge)](#install)
 
