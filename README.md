@@ -30,6 +30,17 @@ Read, watch and track your progress. On iPhone and iPad.
 
 > AniKo does not host, stream or recommend any content. You use your own files, servers and modules, under your own responsibility.
 
+## A look inside
+
+<p align="center">
+  <img src="screenshots/01-discovery.png" width="23%" alt="Discovery" />
+  <img src="screenshots/02-library.png" width="23%" alt="Library" />
+  <img src="screenshots/03-title.png" width="23%" alt="Title page" />
+  <img src="screenshots/05-reader.png" width="23%" alt="Reader" />
+</p>
+
+<sub>Screens show freely licensed works only: Sintel and Sprite Fright (Blender Foundation / Studio, CC BY), Pepper&Carrot (David Revoy, CC BY), Morevna Project (CC BY).</sub>
+
 ## Install
 
 You need [AltStore](https://altstore.io) or [SideStore](https://sidestore.io) already installed on your iPhone.
